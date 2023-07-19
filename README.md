@@ -15,7 +15,7 @@ This page describes the main principles that the agency follows when working wit
 
 # Project Setup
 - install node 14+
-- git clone https://github.com/Bonum-taurus/dia-landing.git
+- git clone https://github.com/Bonum-taurus/museum-landing.git
 - npm install
 - npm start 
 - switch to develop branch

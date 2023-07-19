@@ -1,6 +1,6 @@
 # MUSEUM landing page
 
-This page describes the main principles that the agency follows when working with clients. The landing page also has principles followed by an agency in the examination of a business. The page contains a description of the services provided by the agency. Have customer reviews. To contact the agency on the page there are contacts and a form in which you can leave a message. There is also an address.
+This landing page describes the activities of the National Art Museum of Ukraine. Here is a description of events that you can visit in the near future. There is also a gallery of several popular paintings. It is possible to book tickets and subscribe to the newsletter of current events. The landing page also contains the address of the museum and contacts for additional information.
 
 # [DEMO LINK](https://bonum-taurus.github.io/museum-landing/)
 
